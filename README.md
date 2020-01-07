@@ -2,7 +2,7 @@
 
 Short summary of the project.
 
-*Team members*: Person A, Person B, ...
+**Team members**: Person A, Person B, ...
 
 ## How to install
 
